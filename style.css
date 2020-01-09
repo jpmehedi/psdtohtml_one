@@ -224,6 +224,9 @@ p{line-height:150%;margin:1.5em;}
 	text-align:center;
 	margin-top: 40px;
 } 
+/* end fotterst style  */
+
+/* start style social share button  */
 #footer .socail_share{
 	width:25%;
 	margin: 0 auto;
@@ -280,6 +283,7 @@ p{line-height:150%;margin:1.5em;}
 	background:url(images/website.png);
 	background-repeat:no-repeat;	
 }
+/* end style social share button  */
  
 
 
